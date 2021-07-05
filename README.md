@@ -12,4 +12,4 @@ generated APK file into another legitimate APK.
 
 All actions are performed within the "~/.ae" directory which is created
 during runtime.   The script requires that *keytool*, *jarsigner*, and *apktool*
-are installed.  A KALI distribution will work well to run this script on.
+are installed.  A KALI distribution will work well to run this script on.git 
